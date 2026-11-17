@@ -1,3 +1,9 @@
+// Nusantara Derby — entri make.fun best-game-01: balap kuda 2D + taruhan koin mainan.
+// Enam kuda dengan statistik dan odds, taruhan Win/Place, mekanik spur, kondisi trek,
+// toko kuda, musim 10 balapan + kejuaraan. Semua uang di game ini koin virtual saja,
+// tanpa uang sungguhan, kripto, atau dompet. Kode kit di bawah ini tidak diubah:
+// program ini hanya menyalin game/ dan screenshots/ lalu menulis dossier.json.
+//
 // A working best-game-01 entry (Node 22, standard library only): the game is this directory's
 // game/ folder, plain static files a desktop browser loads offline (game/index.html and its ES
 // modules, no library and no network request), and the program hands it in. It copies game/ and
